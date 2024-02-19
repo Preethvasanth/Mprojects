@@ -7,6 +7,6 @@ public class A {
 			StringBuffer sb=new StringBuffer();
 		sb.append(str);
 		
-		System.out.println(sb.reverse());
+		System.out.println("the reverse string is"+sb.reverse());
 	}
 }
